@@ -1,0 +1,12 @@
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\bin\Debug\net6.0\BaseCamp.Chores.Core.deps.json
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\bin\Debug\net6.0\BaseCamp.Chores.Core.dll
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\bin\Debug\net6.0\BaseCamp.Chores.Core.pdb
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.csproj.AssemblyReference.cache
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.AssemblyInfoInputs.cache
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.AssemblyInfo.cs
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.csproj.CoreCompileInputs.cache
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.dll
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\refint\BaseCamp.Chores.Core.dll
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\BaseCamp.Chores.Core.pdb
+C:\Users\Blake.Devellis\Source\repos\BaseCamp.Chores.Web.Api\BaseCamp.Chores.Core\obj\Debug\net6.0\ref\BaseCamp.Chores.Core.dll

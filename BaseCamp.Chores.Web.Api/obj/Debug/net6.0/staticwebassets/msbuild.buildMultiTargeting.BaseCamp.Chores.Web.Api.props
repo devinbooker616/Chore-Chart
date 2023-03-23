@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaseCamp.Chores.Web.Api.props" />
+</Project>
