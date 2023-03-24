@@ -1,3 +1,4 @@
+using BaseCamp.Chores.Core.Interfaces;
 using BaseCamp.Chores.Infrastructure.Context;
 using BaseCamp.Chores.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -18,6 +19,7 @@ builder.Services.AddDbContext<ChoreDbContext>();
 
 //Register Interfaces and Repository for Dependency Injection
 builder.Services.AddTransient<IChoreRepository, ChoreRepository>();
+builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
 
 var app = builder.Build();
 

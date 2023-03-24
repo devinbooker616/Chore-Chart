@@ -1,4 +1,5 @@
 ﻿using BaseCamp.Chores.Core.DTOs;
+using BaseCamp.Chores.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BaseCamp.Chores.Web.Api.Controllers
@@ -12,10 +13,11 @@ namespace BaseCamp.Chores.Web.Api.Controllers
             _personRepository = personRepository;
         }
 
-        [HttpGet("/api/v1/Person")]
+        [HttpGet("/api/v1/Persons")]
         public IActionResult GetPersons() {
-            var person = this._personRepository.GetPersons();
-            return Ok(person);
+            // var person = this._personRepository.GetPersons();
+            // return Ok(person);
+            return Ok();
         }
 
         [HttpGet]
@@ -27,13 +29,14 @@ namespace BaseCamp.Chores.Web.Api.Controllers
         [HttpPost]
         public IActionResult CreatePerson(CreatePerson createPerson)
         {   
-            var person = this._personRepository.CreatePerson(createPerson);
-            return Ok(person);
+            // var person = this._personRepository.CreatePerson(createPerson);
+            // return Ok(person);
+            return Ok();
         }
 
         [HttpDelete]
         public IActionResult DeletePerson(Guid Id) {
-            this._personRepository.DeleteChore(Id);
+            // this._personRepository.DeleteChore(Id);
             return NoContent();
         }
     }

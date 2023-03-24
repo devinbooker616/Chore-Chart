@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt/yNfSeJvoLvkahVzDmGDAlrT/EcexMyLIwHTHs6UG3xuv/OHi9772jts5nVPWyunBfhBIbCxERHDjCHc9gOw==",
+  "dgSpecHash": "jppDBonEhPvn0LejnixE3l2zHn70BYyocU6HImoxBPARq/rWFTjkomsB0nWW2cvoPvKELwEYGRYZOByki0GaCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
+  "projectFilePath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blake.Devellis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Blake.Devellis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

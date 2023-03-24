@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {}
+    "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {
+    "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj",
         "projectName": "BaseCamp.Chores.Core",
-        "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj",
+        "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj",
         "packagesPath": "C:\\Users\\Blake.Devellis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\obj\\",
+        "outputPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

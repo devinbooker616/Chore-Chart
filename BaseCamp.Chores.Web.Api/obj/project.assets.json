@@ -2280,11 +2280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
       "projectName": "BaseCamp.Chores.Web.Api",
-      "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
+      "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api.csproj",
       "packagesPath": "C:\\Users\\Blake.Devellis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2306,11 +2306,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {
-              "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj"
+            "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj": {
+              "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Core\\BaseCamp.Chores.Core.csproj"
             },
-            "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj": {
-              "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj"
+            "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj": {
+              "projectPath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj"
             }
           }
         }

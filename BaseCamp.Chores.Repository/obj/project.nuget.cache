@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRknpFwirIsmCZ2GOvOZMMXi8xx9+DCIMnILR08Kia02Xum8IJ4Vx4vPdkak7ACJi5lx32OHJXlnh6K8wpKwhA==",
+  "dgSpecHash": "GQatdbgHFTB4LCiYlvEoBDMRyUcWiV16hNxbwivDKXpsE2iWeYl4Na3TS4PImv3T57AkAUKBgBiv91kM9j8SVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blake.Devellis\\Source\\repos\\BaseCamp.Chores.Web.Api\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Blake.Devellis\\Source\\repos\\Chore-Chart\\BaseCamp.Chores.Repository\\BaseCamp.Chores.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blake.Devellis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Blake.Devellis\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

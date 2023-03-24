@@ -10,8 +10,10 @@ namespace BaseCamp.Chores.Core.Interfaces
 {
     public interface IDepartmentRepository
     {
-        Department CreateChore(CreateChore newChore);
-        void DeleteChore(Guid id);
+        void DeleteDepartment(Guid id);
+        Department CreateDepartment(CreateDepartment newDepartment);
         Department GetDepartment(Guid id);
+
+        List<Department> GetDepartments();
     }
 }
