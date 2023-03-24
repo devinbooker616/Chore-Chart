@@ -8,5 +8,8 @@ namespace BaseCamp.Chores.Core.Interfaces
 {
     public interface IAssignedChoreRepository
     {
+        AssignedChore CreateAssignedChore(CreateAssignedChore newAssignedChore);
+        void DeleteAssignedChore(Guid id);
+        AssignedChore GetAssignedChore(Guid id);
     }
 }
